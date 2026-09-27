@@ -43,22 +43,28 @@ git clone https://github.com/你的用户名/你的仓库名.git
 3. 打开 Device Manager，启动 Android 模拟器
 4. 点击 Run ▶ 按钮，编译并安装 App 到模拟器
 5. 进入主菜单，点击对应按钮进入各实验页面；使用模拟器返回键回到主菜单
-<img width="620" height="876" alt="image" src="https://github.com/user-attachments/assets/4265ae0d-b1b7-41cc-9a9b-cf23e768e496" />
+<img width="408" height="798" alt="64297532-18e1-4676-be18-ababab82494d" src="https://github.com/user-attachments/assets/44a0867a-8d40-41e0-8795-235940a288b9" />
+
 
 点击线性布局
-<img width="620" height="861" alt="image" src="https://github.com/user-attachments/assets/3a3a3204-76f5-48ae-a992-1538a388761d" />
+<img width="388" height="783" alt="fa32f4d5-5966-4d7e-88ab-7ff6edae6158" src="https://github.com/user-attachments/assets/780f32c4-795a-466c-b896-9761db1e7cd5" />
+
 
 点击table表格布局
-<img width="620" height="874" alt="image" src="https://github.com/user-attachments/assets/fbb5b374-b28a-4de1-b2ac-eda5b281b581" />
+<img width="403" height="796" alt="544e9fe6-a9d2-4739-8772-85dd0914bba6" src="https://github.com/user-attachments/assets/2cc05862-b3b9-4e86-86da-5703b75c2bdd" />
+
 
 点击约束布局1 计算器
-<img width="620" height="853" alt="image" src="https://github.com/user-attachments/assets/9adb4438-7abf-4f88-bcf0-8086a14ab3c3" />
+<img width="400" height="775" alt="bfd2ae70-b2c7-498f-98ca-1a5ae7eb6a3b" src="https://github.com/user-attachments/assets/5976c5cc-44a4-445b-8e50-8e4f7cecfba7" />
+
 
 点击约束布局2 太空页面
-<img width="620" height="853" alt="image" src="https://github.com/user-attachments/assets/ed06502c-7f1b-448b-8180-38150fb7fc06" />
+<img width="384" height="775" alt="ebe681ab-5c61-4c8e-9824-5c72bbfc17e1" src="https://github.com/user-attachments/assets/bbc86fd1-377e-40ed-890f-3b203c3e876f" />
+
 
 点击compose 任务清单
-<img width="605" height="771" alt="image" src="https://github.com/user-attachments/assets/cd8b5945-6918-4ae2-a33f-545fb100b7f6" />
+<img width="424" height="760" alt="96718dda-bafe-4661-b82d-09398c8f4206" src="https://github.com/user-attachments/assets/83ae1243-276e-4836-ac6e-8d375f8ae4ea" />
+
 
 
 
