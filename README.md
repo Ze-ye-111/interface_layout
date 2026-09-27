@@ -43,8 +43,9 @@ git clone https://github.com/你的用户名/你的仓库名.git
 3. 打开 Device Manager，启动 Android 模拟器
 4. 点击 Run ▶ 按钮，编译并安装 App 到模拟器
 5. 进入主菜单，点击对应按钮进入各实验页面；使用模拟器返回键回到主菜单
+```
+##
 <img width="408" height="798" alt="64297532-18e1-4676-be18-ababab82494d" src="https://github.com/user-attachments/assets/44a0867a-8d40-41e0-8795-235940a288b9" />
-
 
 点击线性布局
 <img width="388" height="783" alt="fa32f4d5-5966-4d7e-88ab-7ff6edae6158" src="https://github.com/user-attachments/assets/780f32c4-795a-466c-b896-9761db1e7cd5" />
