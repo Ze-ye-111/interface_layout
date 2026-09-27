@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnTable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Table表格布局"/>
+
+    <Button
+        android:id="@+id/btnCalc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="约束布局1 计算器"/>
+
+    <Button
+        android:id="@+id/btnSpace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="约束布局2 太空页面"/>
+
+    <Button
+        android:id="@+id/btnCompose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Compose任务清单"/>
+
+</LinearLayout>
